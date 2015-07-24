@@ -1,0 +1,4 @@
+D:\Development\AndroidProject\MonoWithWeChartSDK\WeChartSDK\bin\Release\WeChartSDK.dll
+D:\Development\AndroidProject\MonoWithWeChartSDK\WeChartSDK\bin\Release\WeChartSDK.pdb
+D:\Development\AndroidProject\MonoWithWeChartSDK\WeChartSDK\obj\Release\WeChartSDK.dll
+D:\Development\AndroidProject\MonoWithWeChartSDK\WeChartSDK\obj\Release\WeChartSDK.pdb

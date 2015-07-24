@@ -1,0 +1,4 @@
+MonoWithWeChartSDK.SimplePayment;monowithwechartsdk.SimplePayment
+MonoWithWeChartSDK.GetAccessToken;monowithwechartsdk.GetAccessToken
+MonoWithWeChartSDK.GetPrepayIdTask;monowithwechartsdk.GetPrepayIdTask
+wxapi.WXPayEntryActivity;wxapi.WXPayEntryActivity

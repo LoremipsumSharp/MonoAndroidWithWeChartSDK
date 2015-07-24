@@ -1,0 +1,3 @@
+D:\Development\AndroidProject\MonoWithWeChartSDK\MonoWithWeChartSDK\bin\Debug\MonoWithWeChartSDK.dll
+D:\Development\AndroidProject\MonoWithWeChartSDK\MonoWithWeChartSDK\bin\Debug\Newtonsoft.Json.dll
+D:\Development\AndroidProject\MonoWithWeChartSDK\WeChartSDK\bin\Debug\WeChartSDK.dll
